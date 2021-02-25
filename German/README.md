@@ -18,4 +18,17 @@ Das Curriculum wurde stark von Kamran Ahmed's [Modern Frontend Developer](https:
 
 **Notiz**: Ich weis dass Frontend Development viele verschiedene Bedeutungen für viele Leute hat! Bist du ein Frontend Developer und du denkst dieser Guide kann verbessert werden, dann lass es mich wissen und öffne ein Issue wie im [Contributing](#contributing) Bereich beschrieben. Vielen Dank!
 
-#Translations
+# Übersetzungen
+
+Dank vielen unglaublichen engagierten Mitwirkenden wurde dieses Curriculum in folgende Sprachen übersetzt!
+
+- [Russian русский](/ru) (translation by [@Ibochkarev](https://github.com/Ibochkarev) and [@JonikUl](https://github.com/JonikUl))
+- [Chinese 中文](/chinese) (translation by [@simplefeel](https://github.com/simplefeel))
+- [Portuguese Português](/portuguese) (translation by [@Zardosh](https://github.com/Zardosh))
+- [Polish polski](/polish) (translation by [@mbiesiad](https://github.com/mbiesiad))
+- [Malay/Indonesia](/Malay) (translation by [@asyraf-labs](https://github.com/asyraf-labs))
+- [Vietnamese Tiếng Việt](/Vietnam) (translation by [@duca7](https://github.com/duca7))
+- [German](/German) (translation by [@Daniel-Singer](https://github.com/Daniel-Singer))
+
+
+
