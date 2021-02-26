@@ -30,5 +30,33 @@ Dank vielen unglaublichen engagierten Mitwirkenden wurde dieses Curriculum in fo
 - [Vietnamese Tiếng Việt](/Vietnam) (translation by [@duca7](https://github.com/duca7))
 - [German](/German) (translation by [@Daniel-Singer](https://github.com/Daniel-Singer))
 
+# :calender: Curriculum
+
+Dieses Repo basiert auf dem Prinzip von [timeboxing](https://en.wikipedia.org/wiki/Timeboxing). Wenn du in der Vergangenheit versucht hast Web Development oder etwas Ähnliches zu lernen, bist du vielleicht schon einmal bei einer bestimmten Aufgabe hängen geblieben. Dieses Repo versucht für jede Technologie eine bestimmte Anzahl von Tagen einzuplanen und dich dazu zu ermutigen, dich der nächsten zu widmen wenn die Anzahl der Tage vorbei ist. 
+
+Es wird angenommen, dass jeder der diese Challenge beginnt, über ein anderes Level von Können verfügt. Das ist ok so. Beginner genauso wie erfahrene Frontend Entwickler können von zeitbegrenzten Übungen in jedem dieser Gebiete profitieren. 
+
+Die empfohlenen Tag-für-Tag Aktivitäten sind wie folgt:
+
+- Tag 1-8: [HTML](#html)
+- Tag 9-16: [CSS](#css)
+- Tag 17-24: [JavaScript Basics](#javascript)
+- Tag 25-27: [jQuery](#jquery)
+- Tag 28-33: [Responsive Web Design](#rwd)
+- Tag 34-36: [Accessibility](#accessibility)
+- Tag 37-39: [Git](#git)
+- Tag 40-44: [Node and NPM](#node)
+- Tag 45-50: [Sass](#sass)
+- Tag 51-54: [Bootstrap](#bootstrap)
+- Tag 55: [BEM](#bem)
+- Tag 57-61: [Gulp](#gulp)
+- Tag 62-65: [Webpack](#webpack)
+- Tag 66: [ESLint](#eslint)
+- Tag 68-83: [React](#react)
+- Tag 84-89: [Redux](#redux)
+- Tag 90-94: [Jest](#jest)
+- Tag 95-97: [TypeScript](#typescript)
+- Tag 98-100: [NextJS](#nextjs)
+
 
 
